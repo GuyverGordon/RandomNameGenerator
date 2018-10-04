@@ -1,0 +1,10 @@
+﻿  nameGenerator.cpp
+nameGenerator.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+nameGenerator.cpp(238): warning C4018: '<': signed/unsigned mismatch
+nameGenerator.cpp(243): warning C4018: '<': signed/unsigned mismatch
+nameGenerator.cpp(332): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 308 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  geoLabRandomName2.0.vcxproj -> C:\Users\Oesch\Documents\GTC\CIST2361 C++\Programs\geoLabRandomName2.0\Release\geoLabRandomName2.0.exe
+  geoLabRandomName2.0.vcxproj -> C:\Users\Oesch\Documents\GTC\CIST2361 C++\Programs\geoLabRandomName2.0\Release\geoLabRandomName2.0.pdb (Full PDB)

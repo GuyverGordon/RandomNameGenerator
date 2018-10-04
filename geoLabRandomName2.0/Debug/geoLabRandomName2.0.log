@@ -1,0 +1,7 @@
+﻿  nameGenerator.cpp
+c:\users\oesch\documents\gtc\cist2361 c++\programs\geolabrandomname2.0\geolabrandomname2.0\namegenerator.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\oesch\documents\gtc\cist2361 c++\programs\geolabrandomname2.0\geolabrandomname2.0\namegenerator.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\oesch\documents\gtc\cist2361 c++\programs\geolabrandomname2.0\geolabrandomname2.0\namegenerator.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\oesch\documents\gtc\cist2361 c++\programs\geolabrandomname2.0\geolabrandomname2.0\namegenerator.cpp(331): warning C4018: '<': signed/unsigned mismatch
+  geoLabRandomName2.0.vcxproj -> C:\Users\Oesch\Documents\GTC\CIST2361 C++\Programs\geoLabRandomName2.0\Debug\geoLabRandomName2.0.exe
+  geoLabRandomName2.0.vcxproj -> C:\Users\Oesch\Documents\GTC\CIST2361 C++\Programs\geoLabRandomName2.0\Debug\geoLabRandomName2.0.pdb (Partial PDB)
